@@ -1,16 +1,14 @@
 ### Hi there 👋
+Im a Fullstack Developper and Application Security specialist located in France
 
-<!--
-**Backendt/Backendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a Spring Boot Web App 🍃**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Rust and some frontend technologies 🔎**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Java and Web security 🔒**
+
+- ❤️ In love with **Linux 🐧 and Docker**
+
+- ⚡ 100% powered by **Coffee ☕**
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=backendt&show_icons=true&locale=en&layout=compact" alt="backendt" /></p>
+
