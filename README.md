@@ -1,9 +1,9 @@
 ### Hi there 👋
-Im a Fullstack Developper and Application Security specialist located in France
+Im a Fullstack Developper and Application Security specialist located in Liège
 
-- 🔭 I’m currently looking for **a 2 years work-study contract**
+- 🔭 I’m currently looking for **full-time job in development or cybersecurity**
 
-- 🌱 I’m currently studying **at Epitech 🔎**
+- 🌱 I’m currently learning **cryptography**
 
 - 💬 Ask me about **Java and Web security 🔒**
 
