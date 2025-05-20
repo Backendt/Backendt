@@ -1,7 +1,7 @@
 ### Hi there 👋
 Im a Fullstack Developper and Application Security specialist located in Liège
 
-- 🔭 I’m currently looking for **full-time job in development or cybersecurity**
+- 💜 Working at Odoo as **System Administrator & IT Support**
 
 - 🌱 I’m currently learning **cryptography**
 
